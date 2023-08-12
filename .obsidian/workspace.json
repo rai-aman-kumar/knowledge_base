@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "8c2c018ca86d65fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "32b1d0bbf6bef015",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f853d9f466eaf491",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Using SSH to connect to your github account.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d32da858c8ff3902",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5ddc758dfe2be6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adc861b0f13b9624",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e388cae6b9d6c18c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "781e74e67feeb052",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "98b03aef3eb5c6f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf15f39a9b655c1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70d8443676f3affa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Using SSH to connect to your github account.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ae5d022b2ab3ef60",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Using SSH to connect to your github account.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bb8ed7943b1a819c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "48cfb611dff2a348",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Using SSH to connect to your github account.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f853d9f466eaf491",
+  "lastOpenFiles": [
+    "Using multiple github accounts on the same system with ssh.md",
+    "Using SSH to connect to your github account.md"
+  ]
+}
